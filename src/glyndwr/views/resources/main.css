@@ -1,0 +1,26 @@
+.Pane {
+    -fx-background-color: white;
+}
+
+.top-bar {
+    -fx-background-color: #2196F3;
+}
+
+#btn-student {
+    -fx-background-image: url("images/student.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 128px;
+    -fx-pref-height: 128px;
+}
+
+#btn-ranking {
+    -fx-background-image: url("images/growth.png");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 128px;
+    -fx-pref-height: 128px;
+}
+.btn-home{
+    -fx-background-color: #2196F3;
+}
